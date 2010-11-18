@@ -1,8 +1,0 @@
-#!/usr/bin/ruby
-require 'infinite_glitch'
-
-puts "TESTS: PARSE_INTERNET_ARCHIVE: RESULTS:"
-
-p = Parser.new
-results = p.parse_internet_archive("http://www.archive.org/details/aifbymikha")
-puts results

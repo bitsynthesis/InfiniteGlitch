@@ -8,7 +8,7 @@ class Utility
 
   def makedir(dir)
     if File.exists?(dir) != true
-      cmd "mkdir #{dir}"
+      cmd = "mkdir #{dir}"
       system cmd
     end
   end

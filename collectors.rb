@@ -34,6 +34,7 @@ puts "#{p.path}/@title"
   def parse_internet_archive(url)
     @files = []
     @fields = {}
+    found = false
     data = open(url)
     doc = Nokogiri::HTML(data)
     # title not properly parsed, needs regex
@@ -59,13 +60,21 @@ puts "#{p.path}/@title"
       @files.push(files_tmp)
     end
     # determine which is the smallest video file
-    @files.sort_by {|e| e[:size]}.each do |e|
-      if @video.include?(e[:ext])
+    filesize = 0
+    @files = @files.sort_by {|e| e[:size]}
+    @files.each do |e|
+     if @video.include?(e[:ext].to_s)
         url = "http://www.archive.org#{e[:link]}"
+        filesize = e[:size].to_i
+        found = true
         break
       end
     end
-    @fields = {:title => title, :description => description, :url => url}
+    if found
+      @fields = {:title => title, :description => description, :url => url, :size => filesize}
+    else
+      return false
+    end
   end
 
   def parse_internet_archive_search(query=false, page=1)
@@ -125,16 +134,18 @@ class Grabber
   def download(url)
     # split base and file from url
     parts = URI.split(url)
-    base = parts[2]
+    base = parts[2].match(/([a-zA-Z0-9]+\.[a-zA-Z]+$)/)[1]
     path = parts[5]
+    filename = path.match(/(^.*\/)(.*)/)[2]
     begin
-      size = Net::HTTP.start(base) do |http|
+      Net::HTTP.start(base) do |http|
         response = http.get(path)
-        open("./tmp/original.jpg", "wb") do |file|
-          file.write(response.body)         
+        raise "No body in http response" if response.body == ''
+        open("./tmp/#{filename}", "wb") do |file|
+          file.write(response.read_body)
         end
       end
-      $ig_logger.debug "COLLECTORS: GRABBER: DOWNLOAD_FILE: SIZE #{size} bytes"
+#      $ig_logger.debug "COLLECTORS: GRABBER: DOWNLOAD_FILE: SIZE #{size} bytes"
       return true
     rescue Exception => e
       $ig_logger.error "#{e.message}"
