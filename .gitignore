@@ -1,6 +1,6 @@
-./tmp/*
-./playlist/videos/*
-./playlist/dss_samples/*
-./pool_raw/*
-./pool_ready/*
-./pool/*
+tmp/
+playlist/videos/
+playlist/dss_samples/
+pool_raw/
+pool_ready/
+pool/
