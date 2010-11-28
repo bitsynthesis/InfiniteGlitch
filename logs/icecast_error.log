@@ -1,0 +1,831 @@
+[2010-11-20  02:17:43] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  02:17:43] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  02:17:43] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2010-11-20  02:18:03] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:18:03] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:18:03] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:18:03] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:18:18] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:18:18] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:18:18] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:18:18] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:18:21] INFO fserve/fserve_client_create checking for file /admin (/home/ben/infinite_glitch/playlist/admin)
+[2010-11-20  02:18:21] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/admin" No such file or directory
+[2010-11-20  02:18:22] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:18:22] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:18:24] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:18:24] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:18:24] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:18:24] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:18:26] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  02:18:26] INFO main/main Shutting down
+[2010-11-20  02:18:26] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  02:18:27] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  02:18:27] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  02:18:27] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  02:18:27] INFO yp/yp_shutdown YP thread down
+[2010-11-20  02:18:27] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  02:20:00] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  02:20:00] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  02:20:00] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2010-11-20  02:20:02] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:20:02] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:20:03] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:20:03] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:20:04] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:20:04] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:20:04] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:20:04] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:20:05] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:20:05] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:20:05] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:20:05] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:20:06] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:20:06] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:20:06] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:20:06] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:20:06] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:20:06] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:20:07] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:20:07] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:20:07] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:20:07] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:20:07] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:20:07] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:20:08] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:20:08] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:20:08] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:20:08] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:20:08] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:20:08] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:20:08] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:20:08] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:20:13] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  02:20:13] INFO main/main Shutting down
+[2010-11-20  02:20:13] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  02:20:14] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  02:20:14] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  02:20:14] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  02:20:14] INFO yp/yp_shutdown YP thread down
+[2010-11-20  02:20:14] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  02:20:30] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  02:20:30] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  02:20:30] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2010-11-20  02:20:33] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  02:20:33] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/style.css" No such file or directory
+[2010-11-20  02:20:33] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  02:20:33] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/corner_topleft.jpg" No such file or directory
+[2010-11-20  02:20:33] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  02:20:33] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg" No such file or directory
+[2010-11-20  02:20:33] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:20:33] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:20:35] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  02:20:35] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/style.css" No such file or directory
+[2010-11-20  02:20:35] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  02:20:35] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/corner_topleft.jpg" No such file or directory
+[2010-11-20  02:20:35] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  02:20:35] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg" No such file or directory
+[2010-11-20  02:20:35] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:20:35] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:20:39] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  02:20:39] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/style.css" No such file or directory
+[2010-11-20  02:20:39] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  02:20:39] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/corner_topleft.jpg" No such file or directory
+[2010-11-20  02:20:39] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  02:20:39] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg" No such file or directory
+[2010-11-20  02:20:39] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:20:39] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:20:41] INFO admin/admin_handle_request Bad or missing password on admin command request (command: )
+[2010-11-20  02:20:46] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/icecast/stats.xsl": No such file or directory
+[2010-11-20  02:20:46] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/icecast/stats.xsl"
+[2010-11-20  02:20:46] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:20:46] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:20:50] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/icecast/stats.xsl": No such file or directory
+[2010-11-20  02:20:50] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/icecast/stats.xsl"
+[2010-11-20  02:20:51] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:20:51] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:20:53] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  02:20:53] INFO main/main Shutting down
+[2010-11-20  02:20:53] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  02:20:53] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  02:20:53] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  02:20:53] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  02:20:53] INFO yp/yp_shutdown YP thread down
+[2010-11-20  02:20:54] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  02:23:33] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  02:23:33] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  02:23:33] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2010-11-20  02:23:37] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:23:37] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:23:37] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:23:37] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:23:39] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:23:39] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:23:39] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:23:39] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:23:40] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:23:40] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:23:40] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:23:40] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:23:40] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:23:40] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:23:40] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:23:40] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:26:42] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  02:26:42] INFO main/main Shutting down
+[2010-11-20  02:26:42] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  02:26:42] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  02:26:42] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  02:26:42] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  02:26:42] INFO yp/yp_shutdown YP thread down
+[2010-11-20  02:26:43] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  02:26:45] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  02:26:45] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  02:26:45] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2010-11-20  02:26:48] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:26:48] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:26:48] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:26:48] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:26:49] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:26:49] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:26:49] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:26:49] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:26:49] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:26:49] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:26:50] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:26:50] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:26:50] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:26:50] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:26:51] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:26:51] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:26:51] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:26:51] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:27:13] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:27:13] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:27:13] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:27:13] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:27:16] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  02:27:16] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  02:28:37] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  02:28:37] INFO main/main Shutting down
+[2010-11-20  02:28:37] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  02:28:38] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  02:28:38] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  02:28:38] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  02:28:38] INFO yp/yp_shutdown YP thread down
+[2010-11-20  02:28:38] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  02:32:53] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  02:32:53] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  02:32:53] INFO connection/get_ssl_certificate No SSL capability
+[2010-11-20  02:33:02] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:33:02] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:33:06] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:33:06] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:33:08] INFO fserve/fserve_client_create checking for file /admin (/home/ben/infinite_glitch/playlist/admin)
+[2010-11-20  02:33:08] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/admin" No such file or directory
+[2010-11-20  02:33:12] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:33:12] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:33:22] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:33:22] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:33:32] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  02:33:32] INFO main/main Shutting down
+[2010-11-20  02:33:32] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  02:33:33] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  02:33:33] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  02:33:33] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  02:33:33] INFO yp/yp_shutdown YP thread down
+[2010-11-20  02:33:33] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  02:34:42] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  02:34:42] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  02:34:42] INFO connection/get_ssl_certificate No SSL capability
+[2010-11-20  02:34:49] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:34:49] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:34:52] INFO fserve/fserve_client_create checking for file /admin (/home/ben/infinite_glitch/playlist/admin)
+[2010-11-20  02:34:52] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/admin" No such file or directory
+[2010-11-20  02:34:54] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  02:34:54] INFO main/main Shutting down
+[2010-11-20  02:34:54] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  02:34:55] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  02:34:55] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  02:34:55] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  02:34:55] INFO yp/yp_shutdown YP thread down
+[2010-11-20  02:34:55] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  02:37:12] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  02:37:12] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  02:37:12] INFO connection/get_ssl_certificate No SSL capability
+[2010-11-20  02:37:24] INFO fserve/fserve_client_create checking for file /admin (/home/ben/infinite_glitch/playlist/admin)
+[2010-11-20  02:37:24] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/admin" No such file or directory
+[2010-11-20  02:37:28] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:37:28] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:37:32] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  02:37:32] INFO main/main Shutting down
+[2010-11-20  02:37:32] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  02:37:32] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  02:37:32] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  02:37:32] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  02:37:32] INFO yp/yp_shutdown YP thread down
+[2010-11-20  02:37:32] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  02:39:31] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  02:39:31] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  02:39:31] INFO connection/get_ssl_certificate No SSL capability
+[2010-11-20  02:39:34] INFO fserve/fserve_client_create checking for file / (/home/ben/infinite_glitch/playlist/)
+[2010-11-20  02:39:34] WARN fserve/fserve_client_create found requested file but there is no handler for it: /home/ben/infinite_glitch/playlist/
+[2010-11-20  02:39:35] INFO fserve/fserve_client_create checking for file / (/home/ben/infinite_glitch/playlist/)
+[2010-11-20  02:39:35] WARN fserve/fserve_client_create found requested file but there is no handler for it: /home/ben/infinite_glitch/playlist/
+[2010-11-20  02:39:36] INFO fserve/fserve_client_create checking for file / (/home/ben/infinite_glitch/playlist/)
+[2010-11-20  02:39:36] WARN fserve/fserve_client_create found requested file but there is no handler for it: /home/ben/infinite_glitch/playlist/
+[2010-11-20  02:39:36] INFO fserve/fserve_client_create checking for file / (/home/ben/infinite_glitch/playlist/)
+[2010-11-20  02:39:36] WARN fserve/fserve_client_create found requested file but there is no handler for it: /home/ben/infinite_glitch/playlist/
+[2010-11-20  02:39:36] INFO fserve/fserve_client_create checking for file / (/home/ben/infinite_glitch/playlist/)
+[2010-11-20  02:39:36] WARN fserve/fserve_client_create found requested file but there is no handler for it: /home/ben/infinite_glitch/playlist/
+[2010-11-20  02:39:37] INFO fserve/fserve_client_create checking for file / (/home/ben/infinite_glitch/playlist/)
+[2010-11-20  02:39:37] WARN fserve/fserve_client_create found requested file but there is no handler for it: /home/ben/infinite_glitch/playlist/
+[2010-11-20  02:39:39] INFO fserve/fserve_client_create checking for file / (/home/ben/infinite_glitch/playlist/)
+[2010-11-20  02:39:39] WARN fserve/fserve_client_create found requested file but there is no handler for it: /home/ben/infinite_glitch/playlist/
+[2010-11-20  02:39:41] INFO fserve/fserve_client_create checking for file /admin (/home/ben/infinite_glitch/playlist/admin)
+[2010-11-20  02:39:41] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/admin" No such file or directory
+[2010-11-20  02:39:55] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  02:39:55] INFO main/main Shutting down
+[2010-11-20  02:39:55] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  02:39:56] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  02:39:56] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  02:39:56] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  02:39:56] INFO yp/yp_shutdown YP thread down
+[2010-11-20  02:39:56] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  02:39:57] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  02:39:57] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  02:39:57] INFO connection/get_ssl_certificate No SSL capability
+[2010-11-20  02:39:59] INFO fserve/fserve_client_create checking for file /admin (/home/ben/infinite_glitch/playlist/admin)
+[2010-11-20  02:39:59] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/admin" No such file or directory
+[2010-11-20  02:40:01] INFO fserve/fserve_client_create checking for file /admin (/home/ben/infinite_glitch/playlist/admin)
+[2010-11-20  02:40:01] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/admin" No such file or directory
+[2010-11-20  02:40:04] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:40:04] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:42:18] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  02:42:18] INFO main/main Shutting down
+[2010-11-20  02:42:18] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  02:42:19] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  02:42:19] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  02:42:19] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  02:42:19] INFO yp/yp_shutdown YP thread down
+[2010-11-20  02:42:20] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  02:42:20] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  02:42:20] INFO connection/get_ssl_certificate No SSL capability
+[2010-11-20  02:42:20] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  02:42:24] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:42:24] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:42:28] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:42:28] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:42:30] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  02:42:30] INFO main/main Shutting down
+[2010-11-20  02:42:31] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  02:42:31] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  02:42:31] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  02:42:31] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  02:42:31] INFO yp/yp_shutdown YP thread down
+[2010-11-20  02:42:32] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  02:44:19] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  02:44:19] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  02:44:19] INFO connection/get_ssl_certificate No SSL capability
+[2010-11-20  02:44:21] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:44:21] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:44:22] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:44:22] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:44:23] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:44:23] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:44:24] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:44:24] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:44:24] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:44:24] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:44:24] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:44:24] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:44:24] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:44:24] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:44:24] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:44:24] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:44:27] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  02:44:27] INFO main/main Shutting down
+[2010-11-20  02:44:27] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  02:44:28] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  02:44:28] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  02:44:28] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  02:44:28] INFO yp/yp_shutdown YP thread down
+[2010-11-20  02:44:29] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  02:46:31] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  02:46:31] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  02:46:31] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2010-11-20  02:46:33] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:46:33] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:46:34] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:46:34] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:46:34] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:46:34] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:46:34] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:46:34] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:46:35] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  02:46:35] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  02:46:37] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  02:46:37] INFO main/main Shutting down
+[2010-11-20  02:46:37] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  02:46:38] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  02:46:38] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  02:46:38] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  02:46:38] INFO yp/yp_shutdown YP thread down
+[2010-11-20  02:46:39] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  17:11:24] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  17:11:24] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  17:11:24] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2010-11-20  17:11:30] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  17:11:30] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  17:11:30] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  17:11:30] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  17:11:33] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-20  17:11:33] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-20  17:53:29] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  17:53:29] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  17:53:30] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  17:53:30] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  17:53:31] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  17:53:31] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  17:53:31] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  17:53:31] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  17:53:31] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  17:53:31] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  18:29:30] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  18:29:30] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  18:29:31] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  18:29:31] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  18:29:32] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  18:29:32] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  18:29:32] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/playlist/status.xsl": No such file or directory
+[2010-11-20  18:29:32] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/playlist/status.xsl"
+[2010-11-20  18:29:39] INFO sighandler/_sig_die Caught signal 15, shutting down...
+[2010-11-20  18:29:39] INFO main/main Shutting down
+[2010-11-20  18:29:39] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  18:29:39] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  18:29:39] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  18:29:39] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  18:29:39] INFO yp/yp_shutdown YP thread down
+[2010-11-20  18:29:40] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  18:33:38] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  18:33:38] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  18:33:38] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2010-11-20  18:33:42] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:33:42] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:33:42] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:33:42] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:33:42] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:33:42] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:33:44] INFO admin/admin_handle_request Bad or missing password on admin command request (command: )
+[2010-11-20  18:33:51] INFO admin/admin_handle_request Bad or missing password on admin command request (command: )
+[2010-11-20  18:34:08] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/icecast/stats.xsl": No such file or directory
+[2010-11-20  18:34:08] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/icecast/stats.xsl"
+[2010-11-20  18:34:17] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/icecast/stats.xsl": No such file or directory
+[2010-11-20  18:34:17] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/icecast/stats.xsl"
+[2010-11-20  18:34:20] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:34:20] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:34:20] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:34:20] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:34:20] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:34:20] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:34:23] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:34:23] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:34:23] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:34:23] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:34:23] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:34:23] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:34:26] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:34:26] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:34:26] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:34:26] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:34:26] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:34:26] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:34:33] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:34:33] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:34:33] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:34:33] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:34:33] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:34:33] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:34:35] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/icecast/stats.xsl": No such file or directory
+[2010-11-20  18:34:35] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/icecast/stats.xsl"
+[2010-11-20  18:38:00] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:38:00] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:38:00] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:38:00] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:38:00] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:38:00] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:38:02] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/icecast/stats.xsl": No such file or directory
+[2010-11-20  18:38:02] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/icecast/stats.xsl"
+[2010-11-20  18:38:02] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/icecast/stats.xsl": No such file or directory
+[2010-11-20  18:38:02] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/icecast/stats.xsl"
+[2010-11-20  18:38:03] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/icecast/stats.xsl": No such file or directory
+[2010-11-20  18:38:03] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/icecast/stats.xsl"
+[2010-11-20  18:38:04] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/icecast/stats.xsl": No such file or directory
+[2010-11-20  18:38:04] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/icecast/stats.xsl"
+[2010-11-20  18:38:04] WARN xslt/xslt_get_stylesheet Error checking for stylesheet file "/home/ben/infinite_glitch/icecast/stats.xsl": No such file or directory
+[2010-11-20  18:38:04] EROR xslt/xslt_transform problem reading stylesheet "/home/ben/infinite_glitch/icecast/stats.xsl"
+[2010-11-20  18:38:06] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:38:06] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:38:06] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:38:07] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:38:07] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:38:07] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:38:08] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:38:08] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:38:08] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:38:08] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:38:08] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:38:08] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:38:09] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:38:09] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:38:09] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:38:09] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:38:09] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:38:09] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:38:10] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:38:10] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:38:10] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:38:10] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:38:10] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:38:10] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:38:11] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:38:11] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:38:11] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:38:12] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:38:12] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:38:12] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:40:57] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  18:40:57] INFO main/main Shutting down
+[2010-11-20  18:40:57] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  18:40:58] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  18:40:58] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  18:40:58] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  18:40:58] INFO yp/yp_shutdown YP thread down
+[2010-11-20  18:40:58] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  18:41:05] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  18:41:05] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  18:41:05] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2010-11-20  18:41:13] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:41:13] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:41:13] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:41:14] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:41:14] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:41:14] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:41:15] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:41:15] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:41:15] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:41:15] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:41:15] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:41:15] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:41:23] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:41:23] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:41:23] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:41:23] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:41:23] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:41:23] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:41:25] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:41:25] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:41:25] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:41:25] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:41:25] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:41:25] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:41:26] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:41:26] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:41:26] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:41:27] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:41:27] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:41:27] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:41:28] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:41:28] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:41:28] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:41:28] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:41:28] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:41:28] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:42:10] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:42:10] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:42:10] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:42:10] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:42:10] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:42:10] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:42:11] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:42:11] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:42:11] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:42:11] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:42:11] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:42:11] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:42:12] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:42:12] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:42:12] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:42:13] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:42:13] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:42:13] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:42:13] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:42:13] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:42:13] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:42:14] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:42:14] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:42:14] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:42:24] INFO sighandler/_sig_die Caught signal 2, shutting down...
+[2010-11-20  18:42:24] INFO main/main Shutting down
+[2010-11-20  18:42:24] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-20  18:42:24] INFO slave/_slave_thread shutting down current relays
+[2010-11-20  18:42:24] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-20  18:42:24] INFO auth/auth_shutdown Auth shutdown
+[2010-11-20  18:42:24] INFO yp/yp_shutdown YP thread down
+[2010-11-20  18:42:25] INFO stats/stats_shutdown stats thread finished
+[2010-11-20  18:43:45] INFO main/main Icecast 2.3.2 server started
+[2010-11-20  18:43:45] INFO yp/yp_update_thread YP update thread started
+[2010-11-20  18:43:45] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2010-11-20  18:43:48] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:43:48] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:43:48] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:43:48] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:43:48] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:43:48] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:45:02] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:45:02] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:45:02] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:45:02] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:45:02] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:45:02] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:45:03] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:45:03] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:45:03] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:45:04] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:45:04] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:45:04] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:45:11] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:45:11] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:45:11] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:45:11] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:45:11] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:45:11] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:45:12] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:45:12] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:45:12] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:45:12] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:45:12] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:45:12] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:45:14] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:45:14] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:45:14] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:45:14] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:45:14] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:45:14] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:45:17] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:45:17] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:45:17] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:45:17] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:45:17] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:45:17] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:45:19] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:45:19] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:45:19] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:45:19] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:45:19] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:45:19] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:45:20] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:45:20] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:45:20] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:45:20] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:45:20] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:45:20] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:45:22] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:45:22] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:45:22] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:45:22] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:45:22] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:45:22] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:45:26] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:45:26] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:45:26] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:45:26] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:45:26] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:45:26] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:45:31] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:45:31] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:45:31] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:45:32] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:45:32] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:45:32] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:49:13] INFO fserve/fserve_client_create checking for file /dss_samples/sample_theora_100kbit.ogg (/home/ben/infinite_glitch/playlist/dss_samples/sample_theora_100kbit.ogg)
+[2010-11-20  18:49:14] INFO fserve/fserve_client_create checking for file /dss_samples/sample_theora_100kbit.ogg (/home/ben/infinite_glitch/playlist/dss_samples/sample_theora_100kbit.ogg)
+[2010-11-20  18:49:14] INFO fserve/fserve_client_create checking for file /dss_samples/sample_theora_100kbit.ogg (/home/ben/infinite_glitch/playlist/dss_samples/sample_theora_100kbit.ogg)
+[2010-11-20  18:49:30] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:49:30] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:49:30] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:49:30] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:49:30] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:49:30] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:49:32] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:49:32] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:49:32] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:49:32] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:49:32] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:49:32] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:49:33] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:49:33] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:49:33] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:49:34] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:49:34] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:49:34] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:49:35] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:49:35] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:49:35] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:49:35] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:49:35] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:49:35] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:49:37] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:49:37] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:49:37] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:49:38] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:49:38] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:49:38] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:49:39] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:49:39] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:49:39] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:49:39] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:49:39] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:49:39] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:49:39] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:49:39] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:49:39] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:49:39] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:49:39] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-20  18:49:39] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:49:40] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-20  18:49:40] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-20  18:49:40] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-20  18:49:40] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-20  18:49:40] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-20  18:49:40] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-21  00:54:38] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-21  00:54:38] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-21  00:54:38] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-21  00:54:39] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-21  00:54:39] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-21  00:54:39] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-21  01:07:26] INFO sighandler/_sig_die Caught signal 15, shutting down...
+[2010-11-21  01:07:26] INFO main/main Shutting down
+[2010-11-21  01:07:26] INFO fserve/fserve_shutdown file serving thread stopped
+[2010-11-21  01:07:26] INFO slave/_slave_thread shutting down current relays
+[2010-11-21  01:07:26] INFO slave/_slave_thread Slave thread shutdown complete
+[2010-11-21  01:07:26] INFO auth/auth_shutdown Auth shutdown
+[2010-11-21  01:07:26] INFO yp/yp_shutdown YP thread down
+[2010-11-21  01:07:26] INFO stats/stats_shutdown stats thread finished
+[2010-11-21  01:07:34] INFO main/main Icecast 2.3.2 server started
+[2010-11-21  01:07:34] INFO yp/yp_update_thread YP update thread started
+[2010-11-21  01:07:34] INFO connection/get_ssl_certificate No SSL capability on any configured ports
+[2010-11-21  01:07:41] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-21  01:07:41] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-21  01:07:41] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-21  01:07:41] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-21  01:07:41] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-21  01:07:41] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-21  01:07:42] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-21  01:07:42] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-21  01:07:42] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-21  01:07:42] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-21  01:07:42] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-21  01:07:42] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-21  01:07:44] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-21  01:07:44] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-21  01:07:44] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-21  01:07:44] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-21  01:07:44] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-21  01:07:44] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-21  01:07:49] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-21  01:07:49] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-21  01:07:49] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-21  01:07:50] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-21  01:07:50] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-21  01:07:50] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-21  01:08:20] EROR connection/_handle_connection HTTP request parsing failed
+[2010-11-21  01:08:33] EROR connection/_handle_connection HTTP request parsing failed
+[2010-11-21  01:08:58] EROR connection/_handle_connection HTTP request parsing failed
+[2010-11-21  01:10:19] INFO connection/_handle_source_request Source logging in at mountpoint "/stream.mp3"
+[2010-11-21  01:10:20] INFO source/source_main listener count on /stream.mp3 now 0
+[2010-11-21  01:10:43] WARN source/get_next_buffer Disconnecting source due to socket timeout
+[2010-11-21  01:10:43] INFO source/source_shutdown Source "/stream.mp3" exiting
+[2010-11-21  01:23:24] INFO connection/_handle_source_request Source logging in at mountpoint "/stream.mp3"
+[2010-11-21  01:23:25] INFO source/source_main listener count on /stream.mp3 now 0
+[2010-11-21  01:24:36] EROR connection/_handle_connection HTTP request parsing failed
+[2010-11-21  01:24:40] EROR connection/_handle_connection HTTP request parsing failed
+[2010-11-21  01:25:02] INFO source/source_main listener count on /stream.mp3 now 1
+[2010-11-21  01:25:12] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-21  01:25:12] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-21  01:25:12] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-21  01:25:12] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-21  01:25:12] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-21  01:25:12] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-21  01:25:12] INFO fserve/fserve_client_create checking for file /tunein.png (/home/ben/infinite_glitch/playlist/tunein.png)
+[2010-11-21  01:25:19] INFO fserve/fserve_client_create checking for file /stream.mp3.m3u (/home/ben/infinite_glitch/playlist/stream.mp3.m3u)
+[2010-11-21  01:25:30] INFO source/source_main listener count on /stream.mp3 now 2
+[2010-11-21  01:27:00] INFO fserve/fserve_client_create checking for file /stream.mp3.m3u (/home/ben/infinite_glitch/playlist/stream.mp3.m3u)
+[2010-11-21  01:27:08] INFO source/source_main listener count on /stream.mp3 now 3
+[2010-11-21  01:27:19] INFO source/source_main listener count on /stream.mp3 now 2
+[2010-11-21  01:27:52] INFO source/source_main listener count on /stream.mp3 now 3
+[2010-11-21  01:28:52] INFO source/source_main listener count on /stream.mp3 now 2
+[2010-11-21  01:28:53] INFO source/source_main listener count on /stream.mp3 now 3
+[2010-11-21  01:28:55] INFO source/source_main listener count on /stream.mp3 now 2
+[2010-11-21  01:28:55] INFO source/send_to_listener Client 45 (98.193.26.50) has fallen too far behind, removing
+[2010-11-21  01:28:55] INFO source/source_main listener count on /stream.mp3 now 1
+[2010-11-21  01:35:19] INFO source/get_next_buffer End of Stream /stream.mp3
+[2010-11-21  01:35:19] INFO source/source_shutdown Source "/stream.mp3" exiting
+[2010-11-21  01:45:01] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-21  01:45:01] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-21  01:45:01] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-21  01:45:01] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-21  01:45:01] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-21  01:45:01] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-21  02:18:18] INFO connection/_handle_source_request Source logging in at mountpoint "/stream.mp3"
+[2010-11-21  02:18:19] INFO source/source_main listener count on /stream.mp3 now 0
+[2010-11-21  02:21:46] INFO source/get_next_buffer End of Stream /stream.mp3
+[2010-11-21  02:21:46] INFO source/source_shutdown Source "/stream.mp3" exiting
+[2010-11-21  02:26:13] INFO connection/_handle_source_request Source logging in at mountpoint "/stream.ogg"
+[2010-11-21  02:26:13] INFO source/source_main listener count on /stream.ogg now 0
+[2010-11-21  02:26:14] INFO format-vorbis/initial_vorbis_page seen initial vorbis header
+[2010-11-21  02:27:44] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-21  02:27:44] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-21  02:27:44] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-21  02:27:44] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-21  02:27:44] INFO fserve/fserve_client_create checking for file /tunein.png (/home/ben/infinite_glitch/playlist/tunein.png)
+[2010-11-21  02:27:44] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-21  02:27:44] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-21  02:28:38] INFO fserve/fserve_client_create checking for file /stream.ogg/m3u (/home/ben/infinite_glitch/playlist/stream.ogg/m3u)
+[2010-11-21  02:28:38] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/stream.ogg/m3u" No such file or directory
+[2010-11-21  02:28:40] INFO fserve/fserve_client_create checking for file /stream.ogg/m3u (/home/ben/infinite_glitch/playlist/stream.ogg/m3u)
+[2010-11-21  02:28:40] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/stream.ogg/m3u" No such file or directory
+[2010-11-21  02:28:43] INFO fserve/fserve_client_create checking for file /stream.ogg/m3u (/home/ben/infinite_glitch/playlist/stream.ogg/m3u)
+[2010-11-21  02:28:43] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/stream.ogg/m3u" No such file or directory
+[2010-11-21  02:28:46] INFO fserve/fserve_client_create checking for file /stream.ogg/m3u (/home/ben/infinite_glitch/playlist/stream.ogg/m3u)
+[2010-11-21  02:28:46] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/stream.ogg/m3u" No such file or directory
+[2010-11-21  02:29:05] INFO fserve/fserve_client_create checking for file /stream.ogg.m3u (/home/ben/infinite_glitch/playlist/stream.ogg.m3u)
+[2010-11-21  02:29:10] INFO fserve/fserve_client_create checking for file /stream.ogg.m3u (/home/ben/infinite_glitch/playlist/stream.ogg.m3u)
+[2010-11-21  02:29:10] INFO fserve/fserve_client_create checking for file /stream.ogg.m3u (/home/ben/infinite_glitch/playlist/stream.ogg.m3u)
+[2010-11-21  02:29:10] INFO fserve/fserve_client_create checking for file /stream.ogg.m3u (/home/ben/infinite_glitch/playlist/stream.ogg.m3u)
+[2010-11-21  02:29:11] INFO fserve/fserve_client_create checking for file /stream.ogg.m3u (/home/ben/infinite_glitch/playlist/stream.ogg.m3u)
+[2010-11-21  02:29:42] INFO fserve/fserve_client_create checking for file /stream.ogg.m3u (/home/ben/infinite_glitch/playlist/stream.ogg.m3u)
+[2010-11-21  02:29:43] INFO source/source_main listener count on /stream.ogg now 1
+[2010-11-21  02:32:10] INFO source/send_to_listener Client 77 (98.193.26.50) has fallen too far behind, removing
+[2010-11-21  02:32:10] INFO source/source_main listener count on /stream.ogg now 0
+[2010-11-21  02:33:34] INFO fserve/fserve_client_create checking for file /stream.ogg.m3u (/home/ben/infinite_glitch/playlist/stream.ogg.m3u)
+[2010-11-21  02:33:37] INFO fserve/fserve_client_create checking for file /stream.ogg.m3u (/home/ben/infinite_glitch/playlist/stream.ogg.m3u)
+[2010-11-21  02:33:38] INFO fserve/fserve_client_create checking for file /stream.ogg.m3u (/home/ben/infinite_glitch/playlist/stream.ogg.m3u)
+[2010-11-21  02:33:38] INFO fserve/fserve_client_create checking for file /stream.ogg.m3u (/home/ben/infinite_glitch/playlist/stream.ogg.m3u)
+[2010-11-21  02:33:38] INFO fserve/fserve_client_create checking for file /stream.ogg.m3u (/home/ben/infinite_glitch/playlist/stream.ogg.m3u)
+[2010-11-21  02:33:53] INFO fserve/fserve_client_create checking for file /stream.ogg.m3u (/home/ben/infinite_glitch/playlist/stream.ogg.m3u)
+[2010-11-21  02:36:46] INFO source/source_main listener count on /stream.ogg now 1
+[2010-11-21  02:38:40] INFO admin/admin_handle_request Bad or missing password on admin command request (command: listmounts.xsl)
+[2010-11-21  02:38:43] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-21  02:38:43] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-21  02:38:43] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-21  02:38:44] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-21  02:38:44] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-21  02:38:44] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-21  02:38:44] INFO fserve/fserve_client_create checking for file /tunein.png (/home/ben/infinite_glitch/playlist/tunein.png)
+[2010-11-21  02:38:47] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-21  02:38:47] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-21  02:38:55] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats.xsl)
+[2010-11-21  02:38:55] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-21  02:38:55] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-21  02:39:45] INFO source/send_to_listener Client 84 (98.193.26.50) has fallen too far behind, removing
+[2010-11-21  02:39:45] INFO source/source_main listener count on /stream.ogg now 0
+[2010-11-21  02:39:45] INFO admin/admin_handle_request Bad or missing password on admin command request (command: listmounts.xsl)
+[2010-11-21  02:39:47] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-21  02:39:47] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-21  02:39:47] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-21  02:39:47] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-21  02:39:47] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-21  02:39:47] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-21  02:39:47] INFO fserve/fserve_client_create checking for file /tunein.png (/home/ben/infinite_glitch/playlist/tunein.png)
+[2010-11-21  02:39:49] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-21  02:39:49] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-21  02:39:50] INFO admin/admin_handle_request Bad or missing password on admin command request (command: stats.xsl)
+[2010-11-21  02:39:51] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-21  02:39:51] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-21  03:29:01] WARN source/get_next_buffer Disconnecting source due to socket timeout
+[2010-11-21  03:29:01] INFO source/source_shutdown Source "/stream.ogg" exiting
+[2010-11-22  04:16:51] INFO fserve/fserve_client_create checking for file /stream.mp3 (/home/ben/infinite_glitch/playlist/stream.mp3)
+[2010-11-22  04:16:51] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/stream.mp3" No such file or directory
+[2010-11-22  04:16:53] INFO fserve/fserve_client_create checking for file /stream.mp3 (/home/ben/infinite_glitch/playlist/stream.mp3)
+[2010-11-22  04:16:53] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/stream.mp3" No such file or directory
+[2010-11-27  22:49:09] INFO fserve/fserve_client_create checking for file /stream.ogg.m3u (/home/ben/infinite_glitch/playlist/stream.ogg.m3u)
+[2010-11-27  22:49:18] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-11-27  22:49:18] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-11-27  22:49:18] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-11-27  22:49:19] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-11-27  22:49:19] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-11-27  22:49:19] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-11-27  22:49:20] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-27  22:49:20] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-27  22:49:23] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-27  22:49:23] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-27  23:22:02] INFO connection/_handle_source_request Source logging in at mountpoint "/stream.ogg"
+[2010-11-27  23:22:03] INFO format-vorbis/initial_vorbis_page seen initial vorbis header
+[2010-11-27  23:22:03] INFO source/source_main listener count on /stream.ogg now 0
+[2010-11-27  23:22:49] INFO fserve/fserve_client_create checking for file /stream.ogg.m3u (/home/ben/infinite_glitch/playlist/stream.ogg.m3u)
+[2010-11-27  23:22:50] INFO source/source_main listener count on /stream.ogg now 1
+[2010-11-27  23:23:08] INFO source/source_main listener count on /stream.ogg now 0
+[2010-11-27  23:23:43] INFO source/get_next_buffer End of Stream /stream.ogg
+[2010-11-27  23:23:43] INFO source/source_shutdown Source "/stream.ogg" exiting

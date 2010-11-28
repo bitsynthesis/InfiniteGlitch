@@ -2,6 +2,8 @@
 
 - ustream parser
 
-- media manager with full logging of downloaded files
+- media manager with full logging of downloaded files. file names? permalinks? redirect links?
 
+- test and integrate vimeo parser
 
+- make Internet Archive parser random

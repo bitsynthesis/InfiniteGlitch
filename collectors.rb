@@ -1,8 +1,4 @@
 #!/usr/bin/ruby
-require 'rubygems'
-require 'net/http'
-require 'open-uri'
-require 'nokogiri'
 
 class Parser
 
@@ -138,8 +134,11 @@ class Grabber
     path = parts[5]
     filename = path.match(/(^.*\/)(.*)/)[2]
     begin
-      Net::HTTP.start(base) do |http|
-        response = http.get(path)
+      Net::HTTP.get_response URI.parse(url) do |response|
+        if response['Location']!=nil
+          puts "REDIRECT TO: #{response['Location']}"
+          return download(response['Location'])
+        end
         raise "No body in http response" if response.body == ''
         open("./tmp/#{filename}", "wb") do |file|
           file.write(response.read_body)

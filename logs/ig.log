@@ -26,3 +26,5 @@ ERROR IG: undefined local variable or method `size' for #<Grabber:0x7fa7c7c0e6c8
 ERROR IG: COLLECTORS: GRABBER: DOWNLOAD_FILE: START: FAILED
 ERROR IG: undefined method `location' for #<Net::HTTPFound 302 Moved Temporarily readbody=true>
 ERROR IG: COLLECTORS: GRABBER: DOWNLOAD_FILE: START: FAILED
+ERROR IG: abort then interrupt!!
+ERROR IG: COLLECTORS: GRABBER: DOWNLOAD_FILE: START: FAILED
