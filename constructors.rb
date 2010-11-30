@@ -1,18 +1,14 @@
 #!/usr/bin/ruby
+require 'rubygems'
+require 'aviglitch'
 
 class Transcoder
 
   def prepare_video(vin)
     vout = vin.match(/(.*[\/+])(.*)/)[2]
-    cmd = "ffmpeg -t 0 -i #{vin} -vcodec libxvid -an -g 60 -s 640x480 ./pool_ready/videos/#{vout}"
+    cmd = "ffmpeg -i #{vin} -vcodec libxvid -an -g 60 -s 640x480 ./pool/ready/#{vout}.avi"
     system cmd
-    return true
-  end
-
-  def prepare_image(iin)
-    iout = iin.match(/(.*[\/+])(.*)/)[2]
-    MAGICK::ImageList.new(iin).resize_to_fill(640,480).write("./pool_ready/images/#{iout}")
-    return true
+#    return true
   end
 
   def remove_keys(vin)
@@ -32,6 +28,7 @@ end
 
 class Combiner
 
+  # TODO add multi-clip support by creating an array to hold nested delta, key arrays for each clip
   def open(vin)
     @@ag = AviGlitch.open vin
     @@delta = []
@@ -69,7 +66,7 @@ class Combiner
 
   def finalize(vout)
     og = AviGlitch.open @@q
-    og.output "./tmp/sections/#{vout}"
+    og.output "./pool/tmp/#{vout}"
   end
 
 end

@@ -829,3 +829,7 @@
 [2010-11-27  23:23:08] INFO source/source_main listener count on /stream.ogg now 0
 [2010-11-27  23:23:43] INFO source/get_next_buffer End of Stream /stream.ogg
 [2010-11-27  23:23:43] INFO source/source_shutdown Source "/stream.ogg" exiting
+[2010-11-28  06:20:50] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-28  06:20:50] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-11-28  17:05:30] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-11-28  17:05:30] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory

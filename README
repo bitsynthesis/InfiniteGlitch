@@ -9,3 +9,14 @@ The stream will play 24/7 for 1 year on a public website.
 ::Structure::
 
 There are 4 main elements: collectors, constructors, converter, streamer.
+
+::Gems::
+aviglitch
+nokogiri
+open-uri
+cgi
+net/http
+log4r
+
+::Credits::
+viddl-rb (rb2k)

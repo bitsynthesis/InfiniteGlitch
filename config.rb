@@ -15,6 +15,6 @@ class Utility
 
 end
 
-util = Utility.new
-folders = ["pool", "logs", "data", "tmp", "pool_raw", "./pool_raw/images", "./pool_raw/videos", "pool_ready", "./pool_ready/images", "./pool_ready/videos", "playlist"]
-folders.each {|f| util.makedir(f)}
+# util = Utility.new
+# folders = ["logs", "data", "tmp", "pool_raw", "./pool_raw/images", "./pool_raw/videos", "pool_ready", "./pool_ready/images", "./pool_ready/videos", "playlist"]
+# folders.each {|f| util.makedir(f)}

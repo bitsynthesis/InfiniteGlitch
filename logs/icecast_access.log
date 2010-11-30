@@ -539,3 +539,5 @@
 98.193.26.50 - - [27/Nov/2010:23:22:49 +0000] "GET /stream.ogg.m3u HTTP/1.1" 200 93 "-" "VLC media player - version 0.9.9a Grishenko - (c) 1996-2009 the VideoLAN team" 0
 98.193.26.50 - - [27/Nov/2010:23:23:08 +0000] "GET /stream.ogg HTTP/1.1" 200 206942 "-" "VLC media player - version 0.9.9a Grishenko - (c) 1996-2009 the VideoLAN team" 19
 98.193.26.50 - - [27/Nov/2010:23:23:43 +0000] "SOURCE /stream.ogg HTTP/1.0" 200 19 "-" "-" 101
+98.193.26.50 - - [28/Nov/2010:06:20:50 +0000] "GET /favicon.ico HTTP/1.1" 404 106 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12" 0
+98.193.26.50 - - [28/Nov/2010:17:05:30 +0000] "GET /favicon.ico HTTP/1.1" 404 106 "-" "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12" 0

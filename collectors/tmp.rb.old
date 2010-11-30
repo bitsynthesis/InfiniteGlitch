@@ -3,27 +3,20 @@
 class Parser
 
   def initialize
-    @image = ["png", "jpg", "jpeg", "gif", "svg"]
     @video = ["ogv", "mpg", "mpeg", "avi", "mp4", "m4v", "mov", "flv", "ogg"]
   end
 
-  def parse_flickr
-    @fields = []
-    random = rand(10000)
-    url = "http://api.flickr.com/services/rest/?method=flickr.photos.getRecent&api_key=#{FLICKR_API_KEY}&extras=url_m,owner_name,description,tags&per_page=50&page=#{random}"
+  def parse_vimeo(id)
+    @fields = {}
+    url = "http://vimeo.com/moogaloop/load/clip:#{id}"
     data = open(url)
     doc = Nokogiri::XML(data)
-    doc.xpath('//photos/photo').each do |p|
-puts "#{p.path}/@title"
-      title = doc.xpath("#{p.path}/@title")[0]
-      tags = doc.xpath("#{p.path}/@tags")[0]
-      url = doc.xpath("#{p.path}/@url_m")[0]
-      width = doc.xpath("#{p.path}/@width_m")[0]
-      height = doc.xpath("#{p.path}/@height_m")[0]
-      description = doc.xpath("#{p.path}/description")[0].content
-      fields_tmp = {:title => title, :tags => tags, :url => url, :width => width, :height => height, :description => description}
-      @fields.push(fields_tmp)
-    end
+    title = doc.xpath('//caption')[0].content
+    sig = doc.xpath('//request_signature')[0].content
+    sig_exp = doc.xpath('//request_signature_expires')[0].content
+    url2 = "http://vimeo.com/moogaloop/play/clip:#{id}/#{sig}/sig_exp/"
+    # send url2 to download, must handle redirect
+    @fields = {:title => title, :url = url2}
     return @fields
   end
 
@@ -91,9 +84,7 @@ puts "#{p.path}/@title"
     doc = Nokogiri::HTML(data)
     ext = doc.xpath('//title')[0].content.match(/[a-z]+(?= - Wikimedia Commons$)/)[0]
 #    $ig_logger.debug "COLLECTORS: PARSER: PARSE_WIKIMEDIA: EXT: #{ext}"
-    if @image.include?(ext)
-      return self.parse_wikimedia_image(doc)
-    elsif @video.include?(ext)
+    if @video.include?(ext)
       return self.parse_wikimedia_video(doc)
     else
 #      $ig_logger.error "COLLECTORS: PARSER: PARSE_WIKIMEDIA: UNSUPPORTED FILE TYPE: #{ext}"

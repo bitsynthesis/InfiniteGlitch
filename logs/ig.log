@@ -28,3 +28,36 @@ ERROR IG: undefined method `location' for #<Net::HTTPFound 302 Moved Temporarily
 ERROR IG: COLLECTORS: GRABBER: DOWNLOAD_FILE: START: FAILED
 ERROR IG: abort then interrupt!!
 ERROR IG: COLLECTORS: GRABBER: DOWNLOAD_FILE: START: FAILED
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: FIND: http://www.archive.org/details/RickyKoo9thChinaPressHuntWalk06
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: FIND: http://www.archive.org/details/RickyKoo9thChinaPressHuntSign33
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: FIND: http://www.archive.org/details/RickyKoo9thChinaPressHuntWalk03
+DEBUG IG: SIZE_STRING: 205.1 KB
+DEBUG IG: SIZE_STRING: 292.3 KB
+DEBUG IG: SIZE_STRING: 482.5 KB
+DEBUG IG: SIZE_STRING: 43.4 KB
+DEBUG IG: SIZE_STRING: 6.2 KB
+DEBUG IG: SIZE_STRING: 3.2 KB
+DEBUG IG: SIZE_STRING: 
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: FIND: http://www.archive.org/details/RickyKoo9thChinaPressHuntWalk04
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: FIND: http://www.archive.org/details/RickyKoo9thChinaPressHuntSign06
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: FIND: http://www.archive.org/details/RickyKoo9thChinaPressHuntSign26
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: FIND: http://www.archive.org/details/RickyKoo9thChinaPressHuntSign32
+DEBUG IG: SIZE_STRING: KB
+DEBUG IG: SIZE_STRING: KB
+DEBUG IG: SIZE_STRING: KB
+DEBUG IG: SIZE_STRING: KB
+DEBUG IG: SIZE_STRING: KB
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: FIND: http://www.archive.org/details/RickyKooChinaPress9thHuntTreasure01
+DEBUG IG: SIZE_STRING: KB
+DEBUG IG: SIZE_STRING: KB
+DEBUG IG: SIZE_STRING: KB
+DEBUG IG: SIZE_STRING: KB
+DEBUG IG: SIZE_STRING: KB
+DEBUG IG: SIZE_STRING: KB
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: FIND: http://www.archive.org/details/RickyKoo9thChinaPressHuntSign09
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: FIND: http://www.archive.org/details/RickyKoo9thChinaPressHuntSign38
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: FIND: http://www.archive.org/details/RickyKoo9thChinaPressHuntSign18
+ERROR IG: No such file or directory - ./tmp/sign18.mov
+ERROR IG: COLLECTORS: GRABBER: DOWNLOAD_FILE: START: FAILED
