@@ -15,12 +15,14 @@ class Collector
     Collector.registered_collectors << child
   end
 
-  def self.download(url)
+  # TODO dont create filename until after redirect
+  def self.download(url, filename="")
     # split base and file from url
     parts = URI.split(url)
     base = parts[2].match(/([a-zA-Z0-9]+\.[a-zA-Z]+$)/)[1]
     path = parts[5]
-    filename = path.match(/(^.*\/)(.*)/)[2]
+    filename = path.match(/(^.*\/)(.*)/)[2] if filename == ""
+    filename = "video#{rand(1000000)}" if filename == ""
     begin
       Net::HTTP.get_response URI.parse(url) do |response|
         if response['Location']!=nil
@@ -32,12 +34,33 @@ class Collector
           file.write(response.read_body)
         end
       end
-      $ig_logger.debug "COLLECTOR: DOWNLOAD: SIZE #{size} bytes"
-      return true
+      return filename
     rescue Exception => e
       $ig_logger.error "#{e.message}"
-      $ig_logger.error "COLLECTORS: GRABBER: DOWNLOAD_FILE: START: FAILED"
+      $ig_logger.error "COLLECTOR: DOWNLOAD: START: FAILED"
       return false
+    end
+  end
+
+  def self.run
+    url = self.find
+    $ig_logger.debug "COLLECTOR: DOWNLOAD: URL: #{url}"
+    vin = self.download(self.parse(url)[:url])
+    if vin == false
+      $ig_logger.error "COLLECTOR: TRANSCODE: NO FILE"
+      return false
+    end
+    status = Transcode.in(vin)
+    if status == false
+      cmd = "rm ./pool/ready/#{vin}.avi"
+      system cmd
+      $ig_logger.error "COLLECTOR: TRANSCODE: FAIL"
+      return false
+    else
+      cmd = "rm ./pool/raw/#{vin}"
+      system cmd
+      $ig_logger.debug "COLLECTOR: TRANSCODE: SUCCESS"
+      return true
     end
   end
 
@@ -52,7 +75,14 @@ class Collect
     else
       c = site
     end
-    c.run
+    status = c.run
+    if status == false
+      # DANGER this makes it difficult to force quit
+      $ig_logger.error "COLLECT: RUN: FAILED, TRYING AGAIN"
+      Collect.run(c)
+    else
+      return true
+    end
   end
 
 end

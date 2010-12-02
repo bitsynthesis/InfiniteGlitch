@@ -1,10 +1,20 @@
 #!/usr/bin/ruby
 require 'rubygems'
-require 'cgi'
 require 'open-uri'
 require 'nokogiri'
 
 class Megavideo < Collector
+
+  def self.find
+    # browse 100 most recent videos
+    browse = "http://megavideo.com/?c=videos&browse=1&cat=0&time=4&limit=10"
+    # ids are contained in: videothumbs['ID']
+    data = open(browse)
+    doc = data.read
+    recent_ids = doc.scan(/.*videothumbs\['.*'\]/)
+    id = recent_ids[rand(recent_ids.length)].match(/.*\['([a-zA-Z0-9]+)_*/)[1]
+    url = "http://megavideo.com/?v=#{id}"
+  end
 
   def self.decrypt(un,k1,k2)
     #thanks to http://userscripts.org/scripts/review/42944
@@ -13,7 +23,7 @@ class Megavideo < Collector
     #convert the hex "un" to binary
     location1 = Array.new
     un.each_char do |char|
-      #puts "#{char} => #{char.to_i(16).to_s(2)}"
+      #$ig_logger.debug "#{char} => #{char.to_i(16).to_s(2)}"
       location1 << ("000" + char.to_i(16).to_s(2))[-4,4]
     end
 	
@@ -59,39 +69,36 @@ class Megavideo < Collector
     result
   end
 	
-  def self.download(url)
+  def self.parse(url)
     #the megavideo video ID looks like this: http://www.megavideo.com/?v=ABCDEF72 , we only want the ID (the \w in the brackets)
     video_id = url[/v[\/=](\w*)&?/, 1]
-    puts "[MEGAVIDEO] ID FOUND: " + video_id
+    $ig_logger.debug "[MEGAVIDEO] ID FOUND: " + video_id
     video_page = Nokogiri::XML(open("http://www.megavideo.com/xml/videolink.php?v=#{video_id}"))
     info =  video_page.at("//ROWS/ROW")
     title = info["title"]
-    puts "[MEGAVIDEO] title: #{title}"
+    $ig_logger.debug "[MEGAVIDEO] title: #{title}"
     runtime = info["runtimehms"]
-    puts "[MEGAVIDEO] runtime: #{runtime}"
+    $ig_logger.debug "[MEGAVIDEO] runtime: #{runtime}"
     size = info["size"].to_i / 1024 / 1024
-    puts "[MEGAVIDEO] size: #{size} MB"
+    $ig_logger.debug "[MEGAVIDEO] size: #{size} MB"
     #lame crypto stuff		
     key_s = info["s"]
     key_un = info["un"]
     key_k1 = info["k1"]
     key_k2 = info["k2"]
-    puts "[MEGAVIDEO] lame pseudo crypto keys:"
-    puts "[MEGAVIDEO] s=#{key_s}"
-    puts "[MEGAVIDEO] un=#{key_un}"
-    puts "[MEGAVIDEO] k1=#{key_k1}"
-    puts "[MEGAVIDEO] k2=#{key_k2}"
-    puts "decrypting" 		
+    $ig_logger.debug "[MEGAVIDEO] lame pseudo crypto keys:"
+    $ig_logger.debug "[MEGAVIDEO] s=#{key_s}"
+    $ig_logger.debug "[MEGAVIDEO] un=#{key_un}"
+    $ig_logger.debug "[MEGAVIDEO] k1=#{key_k1}"
+    $ig_logger.debug "[MEGAVIDEO] k2=#{key_k2}"
+    $ig_logger.debug "decrypting" 		
     download_url = "http://www#{key_s}.megavideo.com/files/#{decrypt(key_un,key_k1,key_k2)}/#{title}.flv"
-    puts download_url
-    puts "done decrypting" 
+    $ig_logger.debug download_url
+    $ig_logger.debug "done decrypting" 
     file_name = title + ".flv"
-    puts "downloading to " + file_name
-    save_file(download_url, file_name)
+    $ig_logger.debug "downloading to " + file_name
+    @fields = {:url => download_url, :title => title, :size => size}
+    return @fields
   end
 
-  def self.run
-    $ig_logger.error "COLLECTOR: MEGAVIDEO: NOT READY!"
-  end
-	
 end

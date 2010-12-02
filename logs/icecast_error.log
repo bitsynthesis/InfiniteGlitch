@@ -833,3 +833,158 @@
 [2010-11-28  06:20:50] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
 [2010-11-28  17:05:30] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
 [2010-11-28  17:05:30] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-12-01  17:22:03] INFO connection/_handle_source_request Source logging in at mountpoint "/theora.ogg"
+[2010-12-01  17:22:03] INFO source/get_next_buffer End of Stream /theora.ogg
+[2010-12-01  17:22:03] INFO source/source_main listener count on /theora.ogg now 0
+[2010-12-01  17:22:03] INFO source/source_shutdown Source "/theora.ogg" exiting
+[2010-12-01  17:22:58] INFO connection/_handle_source_request Source logging in at mountpoint "/theora.ogg"
+[2010-12-01  17:22:58] INFO source/source_main listener count on /theora.ogg now 0
+[2010-12-01  17:23:02] INFO source/get_next_buffer End of Stream /theora.ogg
+[2010-12-01  17:23:02] INFO source/source_shutdown Source "/theora.ogg" exiting
+[2010-12-01  17:24:06] INFO connection/_handle_source_request Source logging in at mountpoint "/theora.ogg"
+[2010-12-01  17:24:06] INFO source/source_main listener count on /theora.ogg now 0
+[2010-12-01  17:24:12] INFO source/get_next_buffer End of Stream /theora.ogg
+[2010-12-01  17:24:12] INFO source/source_shutdown Source "/theora.ogg" exiting
+[2010-12-01  17:24:38] INFO connection/_handle_source_request Source logging in at mountpoint "/theora.ogg"
+[2010-12-01  17:24:38] INFO source/source_main listener count on /theora.ogg now 0
+[2010-12-01  17:24:41] INFO source/get_next_buffer End of Stream /theora.ogg
+[2010-12-01  17:24:41] INFO source/source_shutdown Source "/theora.ogg" exiting
+[2010-12-01  17:25:21] INFO connection/_handle_source_request Source logging in at mountpoint "/theora.ogg"
+[2010-12-01  17:25:21] INFO source/source_main listener count on /theora.ogg now 0
+[2010-12-01  17:25:23] INFO source/get_next_buffer End of Stream /theora.ogg
+[2010-12-01  17:25:23] INFO source/source_shutdown Source "/theora.ogg" exiting
+[2010-12-01  17:25:40] INFO connection/_handle_source_request Source logging in at mountpoint "/theora.ogg"
+[2010-12-01  17:25:40] INFO format-theora/initial_theora_page seen initial theora header
+[2010-12-01  17:25:40] INFO format-vorbis/initial_vorbis_page seen initial vorbis header
+[2010-12-01  17:25:40] INFO source/source_main listener count on /theora.ogg now 0
+[2010-12-01  17:25:51] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-12-01  17:25:51] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-12-01  17:25:51] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-12-01  17:25:51] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-12-01  17:25:51] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-12-01  17:25:51] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-12-01  17:25:51] INFO fserve/fserve_client_create checking for file /tunein.png (/home/ben/infinite_glitch/playlist/tunein.png)
+[2010-12-01  17:25:51] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-12-01  17:25:51] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-12-01  17:25:54] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-12-01  17:25:54] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-12-01  17:25:55] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-12-01  17:25:55] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-12-01  17:25:55] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-12-01  17:25:55] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-12-01  17:25:55] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-12-01  17:25:55] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-12-01  17:25:55] INFO fserve/fserve_client_create checking for file /tunein.png (/home/ben/infinite_glitch/playlist/tunein.png)
+[2010-12-01  17:25:56] INFO admin/admin_handle_request Bad or missing password on admin command request (command: )
+[2010-12-01  17:25:59] INFO admin/admin_handle_request Bad or missing password on admin command request (command: )
+[2010-12-01  17:26:03] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-12-01  17:26:03] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-12-01  17:26:03] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-12-01  17:26:03] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-12-01  17:26:03] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-12-01  17:26:03] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-12-01  17:26:03] INFO fserve/fserve_client_create checking for file /tunein.png (/home/ben/infinite_glitch/playlist/tunein.png)
+[2010-12-01  17:26:05] INFO fserve/fserve_client_create checking for file /style.css (/home/ben/infinite_glitch/playlist/style.css)
+[2010-12-01  17:26:05] INFO fserve/fserve_client_create checking for file /corner_topleft.jpg (/home/ben/infinite_glitch/playlist/corner_topleft.jpg)
+[2010-12-01  17:26:05] INFO fserve/fserve_client_create checking for file /corner_bottomleft.jpg (/home/ben/infinite_glitch/playlist/corner_bottomleft.jpg)
+[2010-12-01  17:26:05] INFO fserve/fserve_client_create checking for file /icecast.png (/home/ben/infinite_glitch/playlist/icecast.png)
+[2010-12-01  17:26:05] INFO fserve/fserve_client_create checking for file /corner_topright.jpg (/home/ben/infinite_glitch/playlist/corner_topright.jpg)
+[2010-12-01  17:26:05] INFO fserve/fserve_client_create checking for file /corner_bottomright.jpg (/home/ben/infinite_glitch/playlist/corner_bottomright.jpg)
+[2010-12-01  17:26:05] INFO fserve/fserve_client_create checking for file /tunein.png (/home/ben/infinite_glitch/playlist/tunein.png)
+[2010-12-01  17:27:01] INFO format-theora/initial_theora_page seen initial theora header
+[2010-12-01  17:27:01] INFO format-vorbis/initial_vorbis_page seen initial vorbis header
+[2010-12-01  17:27:12] WARN source/get_next_buffer Disconnecting source due to socket timeout
+[2010-12-01  17:27:12] INFO source/source_shutdown Source "/theora.ogg" exiting
+[2010-12-01  17:27:12] INFO connection/_handle_source_request Source logging in at mountpoint "/theora.ogg"
+[2010-12-01  17:27:12] INFO format-theora/initial_theora_page seen initial theora header
+[2010-12-01  17:27:12] INFO format-vorbis/initial_vorbis_page seen initial vorbis header
+[2010-12-01  17:27:12] INFO source/source_main listener count on /theora.ogg now 0
+[2010-12-01  17:27:15] INFO source/source_main listener count on /theora.ogg now 1
+[2010-12-01  17:27:37] INFO fserve/fserve_client_create checking for file /theora.ogg.m3u (/home/ben/infinite_glitch/playlist/theora.ogg.m3u)
+[2010-12-01  17:27:37] INFO source/source_main listener count on /theora.ogg now 2
+[2010-12-01  17:28:16] INFO source/source_main listener count on /theora.ogg now 3
+[2010-12-01  17:28:20] INFO fserve/fserve_client_create checking for file /theora.ogg.m3u (/home/ben/infinite_glitch/playlist/theora.ogg.m3u)
+[2010-12-01  17:28:31] INFO source/source_main listener count on /theora.ogg now 4
+[2010-12-01  17:28:34] INFO format-theora/initial_theora_page seen initial theora header
+[2010-12-01  17:28:34] INFO format-vorbis/initial_vorbis_page seen initial vorbis header
+[2010-12-01  17:28:42] INFO source/source_main listener count on /theora.ogg now 5
+[2010-12-01  17:28:55] WARN source/get_next_buffer Disconnecting source due to socket timeout
+[2010-12-01  17:28:55] INFO source/source_shutdown Source "/theora.ogg" exiting
+[2010-12-01  17:28:55] INFO fserve/fserve_client_create checking for file /theora.ogg (/home/ben/infinite_glitch/playlist/theora.ogg)
+[2010-12-01  17:28:55] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/theora.ogg" No such file or directory
+[2010-12-01  17:28:55] INFO connection/_handle_source_request Source logging in at mountpoint "/theora.ogg"
+[2010-12-01  17:28:55] INFO format-theora/initial_theora_page seen initial theora header
+[2010-12-01  17:28:55] INFO format-vorbis/initial_vorbis_page seen initial vorbis header
+[2010-12-01  17:28:55] INFO source/source_main listener count on /theora.ogg now 0
+[2010-12-01  17:29:04] INFO source/source_main listener count on /theora.ogg now 1
+[2010-12-01  17:29:15] INFO source/get_next_buffer End of Stream /theora.ogg
+[2010-12-01  17:29:15] INFO source/source_shutdown Source "/theora.ogg" exiting
+[2010-12-02  01:34:05] INFO fserve/fserve_client_create checking for file /pants.ogv (/home/ben/infinite_glitch/playlist/pants.ogv)
+[2010-12-02  01:34:05] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/pants.ogv" No such file or directory
+[2010-12-02  01:34:06] INFO fserve/fserve_client_create checking for file /pants.ogv (/home/ben/infinite_glitch/playlist/pants.ogv)
+[2010-12-02  01:34:06] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/pants.ogv" No such file or directory
+[2010-12-02  01:34:06] INFO fserve/fserve_client_create checking for file /pants.ogv (/home/ben/infinite_glitch/playlist/pants.ogv)
+[2010-12-02  01:34:06] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/pants.ogv" No such file or directory
+[2010-12-02  01:34:10] INFO fserve/fserve_client_create checking for file /pants.ogv (/home/ben/infinite_glitch/playlist/pants.ogv)
+[2010-12-02  01:34:10] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/pants.ogv" No such file or directory
+[2010-12-02  01:34:10] INFO fserve/fserve_client_create checking for file /pants.ogv (/home/ben/infinite_glitch/playlist/pants.ogv)
+[2010-12-02  01:34:10] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/pants.ogv" No such file or directory
+[2010-12-02  01:34:10] INFO fserve/fserve_client_create checking for file /pants.ogv (/home/ben/infinite_glitch/playlist/pants.ogv)
+[2010-12-02  01:34:10] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/pants.ogv" No such file or directory
+[2010-12-02  01:34:12] INFO fserve/fserve_client_create checking for file /pants.ogv (/home/ben/infinite_glitch/playlist/pants.ogv)
+[2010-12-02  01:34:12] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/pants.ogv" No such file or directory
+[2010-12-02  01:34:12] INFO fserve/fserve_client_create checking for file /pants.ogv (/home/ben/infinite_glitch/playlist/pants.ogv)
+[2010-12-02  01:34:13] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/pants.ogv" No such file or directory
+[2010-12-02  01:34:13] INFO fserve/fserve_client_create checking for file /pants.ogv (/home/ben/infinite_glitch/playlist/pants.ogv)
+[2010-12-02  01:34:13] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/pants.ogv" No such file or directory
+[2010-12-02  01:34:33] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:34:39] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:36:57] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:36:59] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:36:59] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:37:05] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:37:05] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:37:05] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:37:05] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:37:05] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:37:06] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:37:06] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:37:06] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:37:06] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:37:07] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:37:56] INFO connection/_handle_source_request Source logging in at mountpoint "/stream.ogg"
+[2010-12-02  01:37:57] INFO source/source_main listener count on /stream.ogg now 0
+[2010-12-02  01:37:58] INFO format-vorbis/initial_vorbis_page seen initial vorbis header
+[2010-12-02  01:39:05] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:39:05] INFO source/source_main listener count on /stream.ogg now 1
+[2010-12-02  01:39:05] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:39:06] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:39:06] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:39:06] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:39:06] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:39:06] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:39:07] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:39:07] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:39:07] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:41:25] INFO fserve/fserve_client_create checking for file /favicon.ico (/home/ben/infinite_glitch/playlist/favicon.ico)
+[2010-12-02  01:41:25] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/favicon.ico" No such file or directory
+[2010-12-02  01:42:27] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:42:27] INFO source/source_main listener count on /stream.ogg now 2
+[2010-12-02  01:42:27] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:42:27] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:42:28] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:42:28] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:42:29] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:42:29] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:42:29] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:42:30] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:42:30] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:45:54] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:45:59] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  01:47:17] INFO source/source_main listener count on /stream.ogg now 1
+[2010-12-02  01:47:59] INFO source/source_main listener count on /stream.ogg now 0
+[2010-12-02  02:20:06] INFO source/get_next_buffer End of Stream /stream.ogg
+[2010-12-02  02:20:06] INFO source/source_shutdown Source "/stream.ogg" exiting
+[2010-12-02  03:08:46] INFO fserve/fserve_client_create checking for file /videos/pants.ogv (/home/ben/infinite_glitch/playlist/videos/pants.ogv)
+[2010-12-02  03:08:46] INFO fserve/fserve_client_create checking for file /stream.ogg (/home/ben/infinite_glitch/playlist/stream.ogg)
+[2010-12-02  03:08:46] WARN fserve/fserve_client_create req for file "/home/ben/infinite_glitch/playlist/stream.ogg" No such file or directory

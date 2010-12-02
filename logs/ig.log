@@ -61,3 +61,412 @@ DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
 DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: FIND: http://www.archive.org/details/RickyKoo9thChinaPressHuntSign18
 ERROR IG: No such file or directory - ./tmp/sign18.mov
 ERROR IG: COLLECTORS: GRABBER: DOWNLOAD_FILE: START: FAILED
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: [MEGAVIDEO] ID FOUND: 6I8G8BYV
+DEBUG IG: [MEGAVIDEO] title: fair+game+movie+trailer
+DEBUG IG: [MEGAVIDEO] runtime: 02:08
+DEBUG IG: [MEGAVIDEO] size: 8 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=1071
+DEBUG IG: [MEGAVIDEO] un=2c6a928446103892f25f9476a7c9b812
+DEBUG IG: [MEGAVIDEO] k1=59936
+DEBUG IG: [MEGAVIDEO] k2=97492
+DEBUG IG: decrypting
+DEBUG IG: http://www1071.megavideo.com/files/9bc3c8e0e05fa25827e0a5de6a7c1836/fair+game+movie+trailer.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to fair+game+movie+trailer.flv
+ERROR IG: undefined local variable or method `size' for Megavideo:Class
+ERROR IG: COLLECTORS: GRABBER: DOWNLOAD_FILE: START: FAILED
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: [MEGAVIDEO] ID FOUND: 7UG39AO5
+DEBUG IG: [MEGAVIDEO] title: Justin+Bieber+-+Somebody+To+Love+%26+Baby+-+LIVE+on
+DEBUG IG: [MEGAVIDEO] runtime: 04:57
+DEBUG IG: [MEGAVIDEO] size: 20 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=792
+DEBUG IG: [MEGAVIDEO] un=4089806b99733925f4eb88d1c73a0d21
+DEBUG IG: [MEGAVIDEO] k1=54129
+DEBUG IG: [MEGAVIDEO] k2=22596
+DEBUG IG: decrypting
+DEBUG IG: http://www792.megavideo.com/files/d75d0f26acc1659e125d63ed694c063a/Justin+Bieber+-+Somebody+To+Love+%26+Baby+-+LIVE+on.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to Justin+Bieber+-+Somebody+To+Love+%26+Baby+-+LIVE+on.flv
+DEBUG IG: COLLECTOR: DOWNLOAD: SIZE #<Net::HTTPOK:0x7f2bd1cab6e8> bytes
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: [MEGAVIDEO] ID FOUND: V925UXFX
+DEBUG IG: [MEGAVIDEO] title: k.t.%C3%9C.+2010.11.23.-10.+r%C3%A9sz+vide%C3%B3+felv%C3%A9tele
+DEBUG IG: [MEGAVIDEO] runtime: 08:30
+DEBUG IG: [MEGAVIDEO] size: 31 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=792
+DEBUG IG: [MEGAVIDEO] un=32ba40c86841c57cc40dfa5408d6b113
+DEBUG IG: [MEGAVIDEO] k1=66786
+DEBUG IG: [MEGAVIDEO] k2=45029
+DEBUG IG: decrypting
+DEBUG IG: http://www792.megavideo.com/files/8172c618faeeaca0cb01fb7a28c5d80a/k.t.%C3%9C.+2010.11.23.-10.+r%C3%A9sz+vide%C3%B3+felv%C3%A9tele.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to k.t.%C3%9C.+2010.11.23.-10.+r%C3%A9sz+vide%C3%B3+felv%C3%A9tele.flv
+ERROR IG: abort then interrupt!!
+ERROR IG: COLLECTORS: GRABBER: DOWNLOAD_FILE: START: FAILED
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: RESULTS: 0
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: BROWSE DOC: <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version="1.0" encoding="UTF-8"?><html><body><response><lst name="responseHeader"><int name="status">0</int><int name="QTime">0</int><lst name="params"><str name="json.wrf">callback</str><str name="qin">movies</str><str name="fl">identifier,mediatype,title</str><str name="indent"></str><str name="start">0</str><str name="q">(title:movies^100 OR description:movies^15 OR collection:movies^10 OR language:movies^10 OR text:movies^1);</str><str name="wt">xml</str><str name="rows">1</str></lst></lst><result name="response" numfound="422284" start="0"><doc><str name="identifier">moviesandfilms</str><str name="mediatype">collection</str><str name="title">Movies</str></doc></result></response></body></html>
+
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: RESULTS: 0
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: collection
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: BROWSE DOC: <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version="1.0" encoding="UTF-8"?><html><body><response><lst name="responseHeader"><int name="status">0</int><int name="QTime">0</int><lst name="params"><str name="json.wrf">callback</str><str name="qin">movies</str><str name="fl">identifier,mediatype,title</str><str name="indent"></str><str name="start">0</str><str name="q">(title:movies^100 OR description:movies^15 OR collection:movies^10 OR language:movies^10 OR text:movies^1);</str><str name="wt">xml</str><str name="rows">1</str></lst></lst><result name="response" numfound="422284" start="0"><doc><str name="identifier">moviesandfilms</str><str name="mediatype">collection</str><str name="title">Movies</str></doc></result></response></body></html>
+
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: RESULTS: 422284
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: movies
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: URL: http://archive.org/details/Swear_Jar-04-10-2010-Chris_House-Windsor_CT
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: 
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: RESULTS: 422285
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: movies
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: URL: http://archive.org/details/islamski_video_6
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://archive.org/details/islamski_video_6
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://megavideo.com/?v=N8ZEFE7U
+DEBUG IG: [MEGAVIDEO] ID FOUND: N8ZEFE7U
+DEBUG IG: [MEGAVIDEO] title: takers+sample
+DEBUG IG: [MEGAVIDEO] runtime: 01:10
+DEBUG IG: [MEGAVIDEO] size: 4 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=483
+DEBUG IG: [MEGAVIDEO] un=1430f9d656f106617d6f7164822b8533
+DEBUG IG: [MEGAVIDEO] k1=17161
+DEBUG IG: [MEGAVIDEO] k2=34874
+DEBUG IG: decrypting
+DEBUG IG: http://www483.megavideo.com/files/a65a6a4eddc600f6d1715a6e1975e142/takers+sample.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to takers+sample.flv
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://vimeo.com/10004252
+ERROR IG: Is a directory - ./pool/raw/
+ERROR IG: COLLECTORS: GRABBER: DOWNLOAD_FILE: START: FAILED
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://vimeo.com/12181472
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://vimeo.com/10837689
+DEBUG IG: COLLECTOR: VIMEO: PARSE: URL: http://vimeo.com/moogaloop/play/clip:10837689/a4319444fdb59fa433ac75db6819e390/sig_exp/
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: VIMEO: FIND: URL: http://vimeo.com/2340683
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://vimeo.com/2340683
+DEBUG IG: COLLECTOR: VIMEO: PARSE: URL2: http://vimeo.com/moogaloop/play/clip:2340683/210c800ce6ab40f575940602ddfe4bb6/sig_exp/
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: VIMEO: FIND: URL: http://vimeo.com/15591140
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://vimeo.com/15591140
+DEBUG IG: COLLECTOR: VIMEO: PARSE: URL: http://vimeo.com/moogaloop/load/clip:15591140
+DEBUG IG: COLLECTOR: VIMEO: PARSE: URL2: http://vimeo.com/moogaloop/play/clip:15591140/369203f6e83b07d5742638c872be6e54/sig_exp/
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: VIMEO: FIND: URL: http://vimeo.com/3706807
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://vimeo.com/3706807
+DEBUG IG: COLLECTOR: VIMEO: PARSE: URL: http://vimeo.com/moogaloop/load/clip:3706807
+DEBUG IG: COLLECTOR: VIMEO: PARSE: URL2: http://vimeo.com/moogaloop/play/clip:3706807/4fc74a9241af12d4464572e3672ff117/1291159800/
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: VIMEO: FIND: URL: http://vimeo.com/9824091
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://vimeo.com/9824091
+DEBUG IG: COLLECTOR: VIMEO: PARSE: URL: http://vimeo.com/moogaloop/load/clip:9824091
+DEBUG IG: COLLECTOR: VIMEO: PARSE: URL2: http://vimeo.com/moogaloop/play/clip:9824091/4918efb80efef446f0263282ce809ea5/1291159800/
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://megavideo.com/?v=L35VKJ41
+DEBUG IG: [MEGAVIDEO] ID FOUND: L35VKJ41
+DEBUG IG: [MEGAVIDEO] title: 109
+DEBUG IG: [MEGAVIDEO] runtime: 01:14
+DEBUG IG: [MEGAVIDEO] size: 1 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=784
+DEBUG IG: [MEGAVIDEO] un=c5710e1299a0e03730356e649c7ad7a9
+DEBUG IG: [MEGAVIDEO] k1=22883
+DEBUG IG: [MEGAVIDEO] k2=97796
+DEBUG IG: decrypting
+DEBUG IG: http://www784.megavideo.com/files/1d72492066ee239820dc7f3c646c068d/109.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to 109.flv
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: RESULTS: 422640
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: movies
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: URL: http://archive.org/details/WaltzingMathilda-avi
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://archive.org/details/WaltzingMathilda-avi
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: RESULTS: 422641
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: movies
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: URL: http://archive.org/details/Canetoad-GrandRapidsInMiniature739-3
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://archive.org/details/Canetoad-GrandRapidsInMiniature739-3
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: RESULTS: 422641
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: movies
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: URL: http://archive.org/details/Dogra-PilsnerSlurpedWell996
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://archive.org/details/Dogra-PilsnerSlurpedWell996
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: RESULTS: 422650
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: movies
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: URL: http://archive.org/details/4-islamic-499
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://archive.org/details/4-islamic-499
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: RESULTS: 422650
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: movies
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: URL: http://archive.org/details/IMB_SF_R36_C7
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://archive.org/details/IMB_SF_R36_C7
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: RESULTS: 422652
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: TYPE: movies
+DEBUG IG: COLLECTOR: INTERNET_ARCHIVE: URL: http://archive.org/details/The_Inn_of_the_Sixth_Happiness_trailer
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://archive.org/details/The_Inn_of_the_Sixth_Happiness_trailer
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://megavideo.com/?v=IIT2WEFT
+DEBUG IG: [MEGAVIDEO] ID FOUND: IIT2WEFT
+DEBUG IG: [MEGAVIDEO] title: pants
+DEBUG IG: [MEGAVIDEO] runtime: 01:25
+DEBUG IG: [MEGAVIDEO] size: 7 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=591
+DEBUG IG: [MEGAVIDEO] un=ba4cbc39a5ba84ce77cb223017737cfb
+DEBUG IG: [MEGAVIDEO] k1=62214
+DEBUG IG: [MEGAVIDEO] k2=73099
+DEBUG IG: decrypting
+DEBUG IG: http://www591.megavideo.com/files/3a238bd041bfe168c8eb1bf1fb0df2ac/pants.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to pants.flv
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://megavideo.com/?v=SHPYE406
+DEBUG IG: [MEGAVIDEO] ID FOUND: SHPYE406
+DEBUG IG: [MEGAVIDEO] title: kid+sister+-+daydreaming
+DEBUG IG: [MEGAVIDEO] runtime: 03:03
+DEBUG IG: [MEGAVIDEO] size: 12 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=708
+DEBUG IG: [MEGAVIDEO] un=1950def8a4291367c4e0a928ec0b1178
+DEBUG IG: [MEGAVIDEO] k1=60044
+DEBUG IG: [MEGAVIDEO] k2=37928
+DEBUG IG: decrypting
+DEBUG IG: http://www708.megavideo.com/files/ca1c3841b18052f9b99ba364f6fdcfff/kid+sister+-+daydreaming.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to kid+sister+-+daydreaming.flv
+DEBUG IG: COLLECTOR: TRANSCODE: SUCCESS
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://megavideo.com/?v=K96NL9QB
+DEBUG IG: [MEGAVIDEO] ID FOUND: K96NL9QB
+DEBUG IG: [MEGAVIDEO] title: justin+bieber+-+never+say+never+in+3d
+DEBUG IG: [MEGAVIDEO] runtime: 01:51
+DEBUG IG: [MEGAVIDEO] size: 7 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=538
+DEBUG IG: [MEGAVIDEO] un=85eaad52c2d73cf3544ea7e85bd4935c
+DEBUG IG: [MEGAVIDEO] k1=48844
+DEBUG IG: [MEGAVIDEO] k2=85456
+DEBUG IG: decrypting
+DEBUG IG: http://www538.megavideo.com/files/ea0d7ef39191144b4b80a6c4913c1559/justin+bieber+-+never+say+never+in+3d.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to justin+bieber+-+never+say+never+in+3d.flv
+DEBUG IG: COLLECTOR: TRANSCODE: SUCCESS
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://megavideo.com/?v=ITBL8R11
+DEBUG IG: [MEGAVIDEO] ID FOUND: ITBL8R11
+DEBUG IG: [MEGAVIDEO] title: Place+to+gather+Mussar
+DEBUG IG: [MEGAVIDEO] runtime: 00:22
+DEBUG IG: [MEGAVIDEO] size: 1 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=596
+DEBUG IG: [MEGAVIDEO] un=106c4b2ce56cd4dd8dd6382dea75ff8c
+DEBUG IG: [MEGAVIDEO] k1=58353
+DEBUG IG: [MEGAVIDEO] k2=25400
+DEBUG IG: decrypting
+DEBUG IG: http://www596.megavideo.com/files/68aa98c41336f27cc15b0a07f54ddb1d/Place+to+gather+Mussar.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to Place+to+gather+Mussar.flv
+DEBUG IG: COLLECTOR: TRANSCODE: SUCCESS
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://megavideo.com/?v=M3O1TQ4D
+DEBUG IG: [MEGAVIDEO] ID FOUND: M3O1TQ4D
+DEBUG IG: [MEGAVIDEO] title: stammi+lontana
+DEBUG IG: [MEGAVIDEO] runtime: 01:11
+DEBUG IG: [MEGAVIDEO] size: 3 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=459
+DEBUG IG: [MEGAVIDEO] un=b26ff9503e8dbf43cd225c9db1dd38fa
+DEBUG IG: [MEGAVIDEO] k1=77651
+DEBUG IG: [MEGAVIDEO] k2=70867
+DEBUG IG: decrypting
+DEBUG IG: http://www459.megavideo.com/files/cef48c51b568e6e9a513934c5f95e9f3/stammi+lontana.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to stammi+lontana.flv
+DEBUG IG: COLLECTOR: TRANSCODE: SUCCESS
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://megavideo.com/?v=2TI91CD4
+DEBUG IG: [MEGAVIDEO] ID FOUND: 2TI91CD4
+DEBUG IG: [MEGAVIDEO] title: funny+kid%21%21
+DEBUG IG: [MEGAVIDEO] runtime: 00:44
+DEBUG IG: [MEGAVIDEO] size: 2 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=162
+DEBUG IG: [MEGAVIDEO] un=f566de6a4bd727542fd9a9842ca71072
+DEBUG IG: [MEGAVIDEO] k1=29732
+DEBUG IG: [MEGAVIDEO] k2=97100
+DEBUG IG: decrypting
+DEBUG IG: http://www162.megavideo.com/files/08d8e83d73448285d2725b82fa941fe7/funny+kid%21%21.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to funny+kid%21%21.flv
+DEBUG IG: COLLECTOR: TRANSCODE: SUCCESS
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://megavideo.com/?v=QN6C31ZE
+DEBUG IG: [MEGAVIDEO] ID FOUND: QN6C31ZE
+DEBUG IG: [MEGAVIDEO] title: gn-84+wakl
+DEBUG IG: [MEGAVIDEO] runtime: 07:56
+DEBUG IG: [MEGAVIDEO] size: 29 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=1019
+DEBUG IG: [MEGAVIDEO] un=b7d0c73308ebca0e5baa4cebe9916252
+DEBUG IG: [MEGAVIDEO] k1=50676
+DEBUG IG: [MEGAVIDEO] k2=54275
+DEBUG IG: decrypting
+DEBUG IG: http://www1019.megavideo.com/files/2b1b704150871af96613d32024a5c555/gn-84+wakl.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to gn-84+wakl.flv
+DEBUG IG: COLLECTOR: TRANSCODE: SUCCESS
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://megavideo.com/?v=JCTLRPL6
+DEBUG IG: [MEGAVIDEO] ID FOUND: JCTLRPL6
+DEBUG IG: [MEGAVIDEO] title: child+drummer
+DEBUG IG: [MEGAVIDEO] runtime: 00:26
+DEBUG IG: [MEGAVIDEO] size: 2 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=755
+DEBUG IG: [MEGAVIDEO] un=122dffad07f5ea2b7a5cd72e7e4290a6
+DEBUG IG: [MEGAVIDEO] k1=15746
+DEBUG IG: [MEGAVIDEO] k2=28302
+DEBUG IG: decrypting
+DEBUG IG: http://www755.megavideo.com/files/5e45cd6e25d9a7d6c458e788c7ede656/child+drummer.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to child+drummer.flv
+ERROR IG: abort then interrupt!!
+ERROR IG: COLLECTOR: DOWNLOAD: START: FAILED
+ERROR IG: COLLECTOR: TRANSCODE: NO FILE
+ERROR IG: COLLECT: RUN: FAILED, TRYING AGAIN
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://megavideo.com/?v=H5QGLJG7
+DEBUG IG: [MEGAVIDEO] ID FOUND: H5QGLJG7
+DEBUG IG: [MEGAVIDEO] title: kaamelott
+DEBUG IG: [MEGAVIDEO] runtime: 03:23
+DEBUG IG: [MEGAVIDEO] size: 11 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=1054
+DEBUG IG: [MEGAVIDEO] un=438253c25f34540c5ec2f02a86bb3952
+DEBUG IG: [MEGAVIDEO] k1=72681
+DEBUG IG: [MEGAVIDEO] k2=46127
+DEBUG IG: decrypting
+DEBUG IG: http://www1054.megavideo.com/files/0c4dd9e077d1b3584ece61a71545ddf6/kaamelott.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to kaamelott.flv
+ERROR IG: abort then interrupt!!
+ERROR IG: COLLECTOR: DOWNLOAD: START: FAILED
+ERROR IG: COLLECTOR: TRANSCODE: NO FILE
+ERROR IG: COLLECT: RUN: FAILED, TRYING AGAIN
+DEBUG IG: COLLECTOR: DOWNLOAD: URL: http://megavideo.com/?v=4M8O5MQ4
+DEBUG IG: [MEGAVIDEO] ID FOUND: 4M8O5MQ4
+DEBUG IG: [MEGAVIDEO] title: how+to+scare+a+friend
+DEBUG IG: [MEGAVIDEO] runtime: 01:41
+DEBUG IG: [MEGAVIDEO] size: 6 MB
+DEBUG IG: [MEGAVIDEO] lame pseudo crypto keys:
+DEBUG IG: [MEGAVIDEO] s=491
+DEBUG IG: [MEGAVIDEO] un=62ffebc9d9293e3e8c87c8a9b2f98cd8
+DEBUG IG: [MEGAVIDEO] k1=79563
+DEBUG IG: [MEGAVIDEO] k2=74112
+DEBUG IG: decrypting
+DEBUG IG: http://www491.megavideo.com/files/d698f573ad049fcb59b203b73b1dc386/how+to+scare+a+friend.flv
+DEBUG IG: done decrypting
+DEBUG IG: downloading to how+to+scare+a+friend.flv
+ERROR IG: abort then interrupt!!
+ERROR IG: COLLECTOR: DOWNLOAD: START: FAILED
+ERROR IG: COLLECTOR: TRANSCODE: NO FILE
+ERROR IG: COLLECT: RUN: FAILED, TRYING AGAIN
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo
+DEBUG IG: COLLECTOR: LOADING COLLECTORS
+DEBUG IG: COLLECTOR: COLLECTORS LOADED: VimeoInternet_ArchiveMegavideo

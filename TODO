@@ -1,9 +1,15 @@
-- redirect handling for Grabber.download
-
 - ustream parser
 
 - media manager with full logging of downloaded files. file names? permalinks? redirect links?
 
 - test and integrate vimeo parser
 
-- make Internet Archive parser random
+- better error handling for transcoding (and all around)
+
+::VLC::
+
+--sout-keep
+--loop
+-v
+
+vlc -vvv input_stream --sout-keep --sout '#standard{access=http,mux=ogg,dst=localhost:8000}

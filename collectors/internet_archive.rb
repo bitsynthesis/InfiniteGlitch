@@ -7,18 +7,28 @@ require 'nokogiri'
 class Internet_Archive < Collector
 
   # randomize the search page (no arguments)
-  def self.find(query=false, page=1)
-    if query == false
-      url = 'http://www.archive.org/search.php?sort=-publicdate&query=%28mediatype%3A%28MovingImage%29%29%20AND%20%28format%3Ampeg%20OR%20format%3Aquicktime%20OR%20format%3Areal%29&page=' + "#{page}"
-    else
-      url = "http://www.archive.org/search.php?query=#{query}"
-    end
-    data = open(url)
+  def self.find
+    id = nil
+    page = 1
+    browse1 = "http://www.archive.org/advancedsearch.php?q=movies&fl[]=identifier&fl[]=mediatype&fl[]=title&sort[]=&sort[]=&sort[]=&rows=1&page="
+    browse2 = "&callback=callback&output=xml"
+    data = open("#{browse1}#{page}#{browse2}")
     doc = Nokogiri::HTML(data)
-    urls = []
-    doc.xpath('//a[@class="titleLink"]/@href').each {|u| urls.push("http://www.archive.org#{u}")}
-    url = urls[rand(urls.length)]
-    $ig_logger.debug "COLLECTOR: INTERNET_ARCHIVE: FIND: #{url}"
+    results = doc.xpath('//result').first['numfound'].to_i
+    $ig_logger.debug "COLLECTOR: INTERNET_ARCHIVE: RESULTS: #{results}"
+    while id == nil do
+      page = rand(results) + 1
+      data = open("#{browse1}#{page}#{browse2}")
+      doc = Nokogiri::HTML(data)
+      type = doc.xpath('//str[@name="mediatype"]')[0].content
+      $ig_logger.debug "COLLECTOR: INTERNET_ARCHIVE: TYPE: #{type}"
+      if type == "movies"
+        id = doc.xpath('//str[@name="identifier"]')[0].content
+        break
+      end
+    end
+    url = "http://archive.org/details/#{id}"
+    $ig_logger.debug "COLLECTOR: INTERNET_ARCHIVE: URL: #{url}"
     return url
   end
 
@@ -55,7 +65,7 @@ class Internet_Archive < Collector
     filesize = 0
     @files = @files.sort_by {|e| e[:size]}
     @files.each do |e|
-     if Collector.formats.include?(e[:ext].to_s)
+     if Config.formats.include?(e[:ext].to_s)
         url = "http://www.archive.org#{e[:link]}"
         filesize = e[:size].to_i
         found = true
@@ -68,10 +78,6 @@ class Internet_Archive < Collector
     else
       return false
     end
-  end
-
-  def self.run
-    self.download(self.parse(self.find)[:url])
   end
 
 end
