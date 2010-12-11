@@ -7,7 +7,7 @@
    paramters to ffmpeg2theora.
  -->
 <ezstream>
-    <url>http://localhost:8000/theora.ogg</url>
+    <url>http://localhost:8000/theora.ogv</url>
     <sourcepassword>hackme</sourcepassword>
     <!--
        Since the reencoding feature is enabled below, <format /> sets the

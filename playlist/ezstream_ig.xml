@@ -1,0 +1,21 @@
+<ezstream>
+  <url>http://localhost:8000/video.ogv</url>
+  <sourcepassword>Gl!tchB0t</sourcepassword>
+  <format>THEORA</format>
+  <filename>/home/ben/infinite_glitch/playlist/playlist-logger.sh</filename>
+  <playlist_program>1</playlist_program>
+<!--
+  <filename>/home/ben/infinite_glitch/playlist/playlist.m3u</filename>
+  <playlist_program>0</playlist_program>
+//-->
+  <stream_once>0</stream_once>
+
+  <svrinfoname>Infinite Glitch</svrinfoname>
+  <svrinfourl>http://infiniteglitch.com</svrinfourl>
+  <svrinfogenre>Generative Video</svrinfogenre>
+  <svrinfobitrate>300</svrinfobitrate>
+
+  <reencode>
+    <enable>0</enable>
+  </reencode>
+</ezstream>

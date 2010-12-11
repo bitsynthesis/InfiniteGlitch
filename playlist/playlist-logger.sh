@@ -30,7 +30,7 @@ STATE_DIR="/home/ben/infinite_glitch/playlist/state"
 
 # PLAYLIST
 # The playlist that should be played by this script.
-PLAYLIST="/home/ben/infinite_glitch/playlist/playlist.txt"
+PLAYLIST="/home/ben/infinite_glitch/playlist/playlist.m3u"
 
 # LOGFILE (optional)
 # File to log song changes to. If not set, logging to file is disabled

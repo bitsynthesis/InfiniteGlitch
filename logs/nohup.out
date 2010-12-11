@@ -1,1 +1,9 @@
 Server startup failed. Exiting
+/usr/local/etc/icecast_ig.xml:52: parser error : Opening and ending tag mismatch: mountnmae line 52 and mountname
+  <mountnmae>/audio.ogg</mountname>
+                                   ^
+/usr/local/etc/icecast_ig.xml:70: parser error : Opening and ending tag mismatch: logging line 65 and loggging
+</loggging>
+           ^
+FATAL: error parsing config file (/usr/local/etc/icecast_ig.xml)
+XML config parsing error
